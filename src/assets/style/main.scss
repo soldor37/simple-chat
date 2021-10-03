@@ -1,0 +1,37 @@
+@import '../../components/button/button.scss';
+@import './normalize.scss';
+@import './colors.scss';
+body{
+    font-family: 'Source sans pro', sans-serif;
+}
+.mb-4{
+    margin-bottom: 16px;
+}
+.mb-10{
+    margin-bottom: 40px;
+}
+.mb-16{
+    margin-bottom: 64px;
+}
+.mr-2{
+    margin-right: 8px;
+}
+.mr-4{
+    margin-right: 16px;
+}
+.text-title{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+}
+.elevation{
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.14);
+}
+.bordered{
+    border-radius: 16px;
+}
+.link{
+    color: var(--color-info);
+    cursor: pointer;
+}
