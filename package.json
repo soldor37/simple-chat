@@ -18,10 +18,9 @@
     "url": "https://github.com/soldor37/simple-chat/issues"
   },
   "homepage": "https://github.com/soldor37/simple-chat#readme",
-  "dependencies": {
-    "parcel-bundler": "^1.12.5"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "parcel-bundler": "^1.12.5",
     "pug": "^3.0.2",
     "sass": "^1.42.1"
   }
