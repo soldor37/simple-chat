@@ -1,1 +1,11 @@
 @import '../../assets/style/main.scss';
+
+body{
+    background: var(--color-darkenSecondary);
+    height: 100vh;
+}
+.content{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
