@@ -7,6 +7,9 @@
     align-items: center;
     padding: 12px 0;
     box-sizing: border-box;
+    &:hover{
+        background: var(--color-darkenSecondary);
+    }
     &__photo{
         height: 46px;
         width: 46px;
