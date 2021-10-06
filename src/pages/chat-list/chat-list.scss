@@ -8,4 +8,9 @@ body{
     width: 100%;
     height: 100%;
     display: flex;
+    .chat-list{
+        background: var(--color-secondary);
+        width: 310px;
+        padding: 10px;
+    }
 }
